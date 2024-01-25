@@ -1,5 +1,5 @@
 import React from 'react'
-import Category from '../Assets/Category.svg';
+import Category from '../Assets/category.svg';
 
 const TokenCard = ({image, owner, title, purchasecount, volume, cost, handleClick}) => {
   return (
