@@ -23,6 +23,8 @@ Smart Wallet Integration:
 
 MetaMask: Starship seamlessly integrates with MetaMask, allowing users to connect their smart wallets directly through the browser (ex: Sepolia Testnet).
 
+Thirdweb: The Smart contract is managed by Thirdweb where the contract is deployed and managed.
+
 # Getting Started
 To run Starship locally and explore its features, follow these steps:
 
